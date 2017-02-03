@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Icarusoncloud9/Airport-Slackbot#readme",
   "dependencies": {
+    "botkit": "^0.4.10",
     "restler": "^3.4.0"
   }
 }

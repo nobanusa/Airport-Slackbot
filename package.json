@@ -1,0 +1,22 @@
+{
+  "name": "airport-slackbot",
+  "version": "1.0.0",
+  "description": "A slackbot to notify incoming flights for the JFK airport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Icarusoncloud9/Airport-Slackbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Icarusoncloud9/Airport-Slackbot/issues"
+  },
+  "homepage": "https://github.com/Icarusoncloud9/Airport-Slackbot#readme",
+  "dependencies": {
+    "restler": "^3.4.0"
+  }
+}

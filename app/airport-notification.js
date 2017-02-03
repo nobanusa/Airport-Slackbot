@@ -9,7 +9,7 @@ var restclient = require('restler');
 
 var fxml_url = 'http://flightxml.flightaware.com/json/FlightXML2/';
 var username = 'YOUR_USERNAME';
-var apiKey = 'YOUR_APIKEY';
+var apiKey = 'YOUR_APIKEY'
 
 
 restclient.get(fxml_url + 'MetarEx', {
